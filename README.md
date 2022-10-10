@@ -9,17 +9,17 @@ Twitch Api : https://dev.twitch.tv/docs/api/
 
 
 ## Top 10 Streamers Peak Viewers For The Last 7 Days 
-
-![PeakViewers](https://i.gyazo.com/99b9a06b66ede189a43151fed37289e1.png)
+Peak viewers for the last 7 days for the top 10 streamers on Twitch
+![PeakViewers](https://i.gyazo.com/9f8c30a3a3f74c7c1474f36fd8e0ea09.png)
 
 
 ## Top 10 Streamers Average Viewers For The Last 7 Days
 Average Viewers for the last 7 days for the top 10 streamers on Twitch
-![PeakViewers](https://i.gyazo.com/3cc2d0f8bc58c9056c887c7998b36b9f.png)
+![AvgViewers](https://i.gyazo.com/a3fa769137022ed82e60c502ff6202be.png)
 
 
 ## Top 10 Streamers Peak Vs Average Viewers For The Last 7 Days
-![PeakViewers](https://i.gyazo.com/05b5cf4f7b3e943f27d5a403b7f407f9.png)
+![Peak_v_AvgViewers](https://i.gyazo.com/3bc379d2af37c701071224f524cfe614.png)
 
 
 ## Top 10 Streamers Hours Watched For The Last 7 Days
