@@ -28,9 +28,9 @@ This is hours that are combined from all viewers. So, if two people watched 10 h
 
 
 ## Followers Gained For The Last 7 Days
-![followersGained](https://i.gyazo.com/16b7b400f058397f13153829fcec19cf.png)
+![followersGained](https://i.gyazo.com/f6866fbb2dd5d1b1bdd00bbb55a91fbc.png)
 
 
 ## Top Streaming Languages on Twitch
-![streamerslanguage](https://i.gyazo.com/d206018a6b7715af91e96599860f7c6f.png)
+![streamerslanguage](https://i.gyazo.com/31e0f8a8b8b37eec82d66ce6a22f80f2.png)
 
