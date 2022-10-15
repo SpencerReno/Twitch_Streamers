@@ -24,7 +24,11 @@ Average Viewers for the last 7 days for the top 10 streamers on Twitch
 
 ## Top 10 Streamers Hours Watched For The Last 7 Days
 This is hours that are combined from all viewers. So, if two people watched 10 hours that 20 hours total.
-![HoursWatched](https://i.gyazo.com/3877dbb17df2802b382fdbfaa8d2a518.png)
+![HoursWatched](https://i.gyazo.com/2639872cdca72622f988190be7bfeb8b.png)
+
+
+## Top 10 Streamers Hours Streamed For The Last 7 Days
+![HoursStreamed](https://i.gyazo.com/75b3be45fc882b66fa01e14587b6bd63.png)
 
 
 ## Followers Gained For The Last 7 Days
@@ -34,3 +38,6 @@ This is hours that are combined from all viewers. So, if two people watched 10 h
 ## Top Streaming Languages on Twitch
 ![streamerslanguage](https://i.gyazo.com/31e0f8a8b8b37eec82d66ce6a22f80f2.png)
 
+
+## Weekly Peak & Avg Viewers For Each Directory 
+![directory](https://i.gyazo.com/3e63dd9ce1d82682b24de8b80feaa7d0.png)
