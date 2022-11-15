@@ -32,11 +32,11 @@ This is hours that are combined from all viewers. So, if two people watched 10 h
 
 
 ## Followers Gained For The Last 7 Days
-![followersGained](https://i.gyazo.com/122e29fafa765587b59645037b02d61c.png)
+![followersGained](https://i.gyazo.com/dbf3ba6496448ad094632134ceb700ba.png)
 
 
 ## Top Streaming Languages on Twitch
-![streamerslanguage](https://i.gyazo.com/8f83a0ab92cad5d75d1c15c6eb5ffbf7.png)
+![streamerslanguage](https://i.gyazo.com/094adc8d8c3dd26f2735c35ff57e477d.png)
 
 
 ## Weekly Peak & Avg Viewers For Each Directory 
